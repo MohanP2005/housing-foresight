@@ -10,9 +10,10 @@ ENV/
 
 # Data
 data/cache/
+data/processed/
+data/raw/
 *.parquet
 *.csv
-data 2/
 
 # IDE
 .vscode/
